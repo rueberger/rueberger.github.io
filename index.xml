@@ -1,16 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic</title>
+    <title>Academic on Academic</title>
     <link>/</link>
-    <description>Recent content on Academic</description>
+    <description>Recent content in Academic on Academic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Your Name</copyright>
     <lastBuildDate>Wed, 22 Nov 2017 01:03:47 +0000</lastBuildDate>
-    
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    
+    <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Firstpost</title>
@@ -18,7 +16,8 @@
       <pubDate>Wed, 22 Nov 2017 01:03:47 +0000</pubDate>
       
       <guid>/post/firstpost/</guid>
-      <description>Hello world please render my site</description>
+      <description>&lt;p&gt;Hello world please render my site&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -27,7 +26,8 @@
       <pubDate>Wed, 22 Nov 2017 01:03:10 +0000</pubDate>
       
       <guid>/home/</guid>
-      <description>Test homepage</description>
+      <description>&lt;p&gt;Test homepage&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -36,7 +36,8 @@
       <pubDate>Wed, 22 Nov 2017 01:02:47 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>test about</description>
+      <description>&lt;p&gt;test about&lt;/p&gt;
+</description>
     </item>
     
   </channel>
