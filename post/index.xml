@@ -1,23 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Academic</title>
-    <link>http://rueberger.github.io/post/</link>
-    <description>Recent content in Posts on Academic</description>
+    <title>Posts on sitename</title>
+    <link>http://rueberger.github.com/post/</link>
+    <description>Recent content in Posts on sitename</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2017 Andrew Berger</copyright>
+    <language>en-EN</language>
+    <managingEditor>yourname@example.com (yourname)</managingEditor>
+    <webMaster>yourname@example.com (yourname)</webMaster>
+    <copyright>(c) 2015 yourname.</copyright>
     <lastBuildDate>Wed, 22 Nov 2017 01:03:47 +0000</lastBuildDate>
-    <atom:link href="/post/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://rueberger.github.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Firstpost</title>
-      <link>http://rueberger.github.io/post/firstpost/</link>
+      <link>http://rueberger.github.com/2017/11/22/firstpost/</link>
       <pubDate>Wed, 22 Nov 2017 01:03:47 +0000</pubDate>
-      
-      <guid>http://rueberger.github.io/post/firstpost/</guid>
-      <description>&lt;p&gt;Hello world please render my site&lt;/p&gt;
-</description>
+      <author>yourname@example.com (yourname)</author>
+      <guid>http://rueberger.github.com/2017/11/22/firstpost/</guid>
+      <description>Hello world please render my site</description>
     </item>
     
   </channel>

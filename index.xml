@@ -1,43 +1,44 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic on Academic</title>
-    <link>http://rueberger.github.io/</link>
-    <description>Recent content in Academic on Academic</description>
+    <title>sitename</title>
+    <link>http://rueberger.github.com/</link>
+    <description>Recent content on sitename</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2017 Andrew Berger</copyright>
+    <language>en-EN</language>
+    <managingEditor>yourname@example.com (yourname)</managingEditor>
+    <webMaster>yourname@example.com (yourname)</webMaster>
+    <copyright>(c) 2015 yourname.</copyright>
     <lastBuildDate>Wed, 22 Nov 2017 01:03:47 +0000</lastBuildDate>
-    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://rueberger.github.com/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Firstpost</title>
-      <link>http://rueberger.github.io/post/firstpost/</link>
+      <link>http://rueberger.github.com/2017/11/22/firstpost/</link>
       <pubDate>Wed, 22 Nov 2017 01:03:47 +0000</pubDate>
-      
-      <guid>http://rueberger.github.io/post/firstpost/</guid>
-      <description>&lt;p&gt;Hello world please render my site&lt;/p&gt;
-</description>
+      <author>yourname@example.com (yourname)</author>
+      <guid>http://rueberger.github.com/2017/11/22/firstpost/</guid>
+      <description>Hello world please render my site</description>
     </item>
     
     <item>
       <title>Home</title>
-      <link>http://rueberger.github.io/home/</link>
+      <link>http://rueberger.github.com/home/</link>
       <pubDate>Wed, 22 Nov 2017 01:03:10 +0000</pubDate>
-      
-      <guid>http://rueberger.github.io/home/</guid>
-      <description>&lt;p&gt;Test homepage&lt;/p&gt;
-</description>
+      <author>yourname@example.com (yourname)</author>
+      <guid>http://rueberger.github.com/home/</guid>
+      <description>Test homepage</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>http://rueberger.github.io/about/</link>
+      <link>http://rueberger.github.com/about/</link>
       <pubDate>Wed, 22 Nov 2017 01:02:47 +0000</pubDate>
-      
-      <guid>http://rueberger.github.io/about/</guid>
-      <description>&lt;p&gt;github.com/rueberger&lt;/p&gt;
-</description>
+      <author>yourname@example.com (yourname)</author>
+      <guid>http://rueberger.github.com/about/</guid>
+      <description>github.com/rueberger</description>
     </item>
     
   </channel>
